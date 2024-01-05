@@ -14,7 +14,7 @@ ip geo location get info like location , isp , org , country and more ...
 
 ` $  apt install python3 `
 
-` $  git clone https://github.com/BlackFoxTM/ipgeolocation `
+` $  git clone https://github.com/azarado-006/geoip `
 
 ` $  cd ipgeolocation `
 
